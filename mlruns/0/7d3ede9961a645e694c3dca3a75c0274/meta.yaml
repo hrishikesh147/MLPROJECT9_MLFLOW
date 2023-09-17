@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJECT9_MLFLOW/mlruns/0/7d3ede9961a645e694c3dca3a75c0274/artifacts
+end_time: 1694938367585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d3ede9961a645e694c3dca3a75c0274
+run_name: caring-dog-367
+run_uuid: 7d3ede9961a645e694c3dca3a75c0274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694938360728
+status: 3
+tags: []
+user_id: DELL
