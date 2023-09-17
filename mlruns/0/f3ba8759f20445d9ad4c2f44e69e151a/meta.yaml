@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/FullStack_Data/MACHINE_LEARNING/PROJECTS/MLPROJECT9_MLFLOW/mlruns/0/f3ba8759f20445d9ad4c2f44e69e151a/artifacts
+end_time: 1694934329404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ba8759f20445d9ad4c2f44e69e151a
+run_name: bouncy-vole-330
+run_uuid: f3ba8759f20445d9ad4c2f44e69e151a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694934324810
+status: 3
+tags: []
+user_id: DELL
